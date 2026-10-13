@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=400&size=58&pause=450&color=8B0000&center=true&vCenter=true&width=1200&height=140&lines=DAYZ+HACK+2026;AIMBOT+%7C+ESP+%7C+RADAR;DOMINATE+CHERNARUS" alt="DayZ Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df4a99d1-eb02-4473-811d-346ebbe68d08" />
 
 <br/>
 
